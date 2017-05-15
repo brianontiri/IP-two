@@ -1,12 +1,8 @@
-# Independent Project
+# brian ontiri
+##Anitas Kitchen
+###a cloned repo that one had to code somthing similer to the image that was provided in the files that were cloned 
+## project set up instructions
+#### install portfolio by cloning this repository
+## link to git hub
+#### https://github.com/brianontiri/brianontiri.github.io.git
 
-## Instructions
-  1) Please fork the Moringa School **mpft1-ip** repo to your own account.
-
-  2) Clone **your forked repo** to your own machine.`
-
-  3) Fill in the form under the [IP submission](http://moringaprep-ft.herokuapp.com/#10.html) heading in the LMS
-
-  4) Complete the independent project.
-  
-  5) Push your commits up to your forked repo.
